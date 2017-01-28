@@ -1,2 +1,7 @@
 # boxbot
-My boxbot's python brain repository
+
+
+
+
+
+A talking robot head. Additions to come
